@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Blitzky Club</title><br>
     <h1>Blitzky Texture Packs And Mods Download Links</h1>
     <meta Charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,9 +13,6 @@
     <h1><strong>Texture Pack Links</strong></h1>
     <h4><strong>Hell pack v1 (faithful type)</strong></h4><a href="https://mega.nz/#!mjpXDYoA!GSO0bhilNy4267Hb1bBoEHUM_1RbXtf72wCfdrohd1Q"> mega.nz</a><br><br>
     <h1><strong>Mods (COMING SOON)</strong></h1><br> 
-    <script src="index.js"></script>
-    <script> href="index.html"</script>
-
 </body>  
 
 </html>
